@@ -59,11 +59,11 @@ hr.star-primary:after {
 }
 
 hr.star-light {
-    border-color: #fff;
+    border-color: #0b334f;
 }
 
 hr.star-light:after {
-    color: #fff;
+    color: #0b334f;
     background-color: #{{ site.color.primary }};
 }
 
@@ -82,7 +82,7 @@ hr.star-primary:after {
 
 header {
     text-align: center;
-    color: #fff;
+    color: #0b334f;
     background: #{{ site.color.primary }};
 }
 
@@ -181,7 +181,7 @@ section h2 {
 }
 
 section.success {
-    color: #fff;
+    color: #0b334f;
     background: #{{ site.color.primary }};
 }
 
@@ -281,7 +281,7 @@ section.success {
 
 .btn-outline {
     margin-top: 15px;
-    border: solid 2px #fff;
+    border: solid 2px #0b334f;
     font-size: 20px;
     color: #fff;
     background: 0 0;
@@ -293,7 +293,7 @@ section.success {
 .btn-outline:active,
 .btn-outline.active {
     border: solid 2px #fff;
-    color: #{{ site.color.primary }};
+    color: #0b334f;
     background: #fff;
 }
 
@@ -475,6 +475,21 @@ footer .footer-below {
 .navbar-nav>.active>a {
     background-color: #{{ site.color.secondary-dark }} !important;
 }
+.btn-success {
+    background-color: #0b334f; /* dark navy, highly visible */
+    color: #fff;               /* white text */
+    border: 2px solid #0b334f;
+    transition: background-color 0.3s ease;
+}
+
+.btn-success:hover,
+.btn-success:focus,
+.btn-success:active {
+    background-color: #062336; /* darker on hover for contrast */
+    border-color: #062336;
+    color: #fff;
+}
+
 
 /* Fix modal mouse wheel issues */
 /* https://github.com/twbs/bootstrap/issues/16297 */
