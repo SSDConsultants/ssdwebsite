@@ -1,9 +1,9 @@
 # Site settings
 title: SSD Consultants
 email: shamim@ssdconsultants.in
-url: https://github.com/jeromelachaud/freelancer-theme
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-keywords: "your keywords, separated by commas"
+url: ssdconsultants.in
+description: "SSD Consultants is your trusted partner for end-to-end recruitment solutions. We specialize in helping organizations find, assess, and hire the right talent—managing the entire hiring process with efficiency, care, and expertise. From startups to established companies, we deliver recruitment strategies tailored to your goals."
+keywords: "recruitment agency, talent acquisition services, job placement services, recruitment solutions, staffing agency for startups, recruitment consultants, hire top talent, professional recruitment services, employee recruitment agency, hiring solutions for businesses, best recruitment agency, startup recruitment services, temporary staffing solutions, executive search firm, IT recruitment agency, healthcare recruitment firm, recruitment process outsourcing (RPO), talent sourcing for companies, recruitment experts, job recruitment startup."
 skills: "End to End Recruitment"
 meta_author: Shamim Saiyed
 
